@@ -46,3 +46,6 @@ This is done in the following manner:
 2. Run the search engine
     - Enter `streamlit run launcher.py` in terminal
         * This will open your browser which is the web interface tied to the search engine
+
+## Output
+![Output of Mock Search Engine program](images/search_engine.gif)
